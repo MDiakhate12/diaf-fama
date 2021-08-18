@@ -1,0 +1,19 @@
+.menu-button {
+    background-color: rgb(64, 118, 64);
+    width: 40px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0.5px solid white;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.3px white;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .menu-button:hover {
+    background-color: rgba(64, 118, 64, 0.734);
+  }
+  
